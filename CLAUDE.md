@@ -26,6 +26,9 @@ npm run lint    # eslint (flat config via eslint.config.mjs)
 
 There is no test setup yet.
 
+## Skills
+Usa siempre /frontend-design para diseñar interfaces de usuario.
+
 ## Architecture
 
 - App Router only (`app/` directory) — `app/layout.tsx` is the root layout, `app/page.tsx` the home page, `app/globals.css` global styles.
